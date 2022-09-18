@@ -1,0 +1,32 @@
+﻿@using EntityLayer.Concrete
+@model List<Kategori>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<div class="container-fluid">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Ad</th>
+                <th>Açıklama</th>
+                <th>Durum</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.KategoriID</td>
+                    <td>@item.KategoriAd</td>
+                    <td>@item.KategoriAciklama</td>
+                    <td>@item.CategoryStats</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a href="/Kategori/KategoriEkle/" class="btn btn-success">Yeni Kategori Ekle</a>
+</div>

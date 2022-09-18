@@ -1,0 +1,199 @@
+﻿@using EntityLayer.Concrete
+@model List<Baslik>
+@{
+    ViewBag.Title = "Basliklarim";
+    Layout = "~/Views/Shared/_LayoutYazar.cshtml";
+}
+
+@{ string color = ""; }
+@{ string[] spanMod = new string[] { "", "", "", "", "" }; }
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Başlıklar</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/AdminLTE-3.2.0/plugins/fontawesome-free/css/all.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/AdminLTE-3.2.0/dist/css/adminlte.min.css">
+</head>
+<body class="hold-transition sidebar-mini">
+
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Başlıklar</h1>
+                </div>
+
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+
+        <!-- Default box -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Başlık İşlemleri</h3>
+
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body p-0">
+                <table class="table table-striped projects">
+                    <thead>
+                        <tr>
+                            <th style="width: 1%">
+                                <i>#</i>
+                            </th>
+                            <th style="width: 20%">
+                                <i>Başlık Adı</i>
+                            </th>
+                            <th style="width: 15%">
+                                <i>Oluşturan Yazar</i>
+                            </th>
+                            <th style="width: 15%" class="text-center">
+                                <i>Kategori</i>
+                            </th>
+                            <th style="width: 2%" class="text-centered">
+                                <i>Durum</i>
+                            </th>
+                            <th style="width: 20%">
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            switch (item.Kategori.KategoriAd)
+                            {
+                                case "Spor":
+                                    color = "badge-warning";
+                                    break;
+                                case "Yazılım":
+                                    color = "badge-success";
+                                    break;
+                                case "Teknoloji":
+                                    color = "badge-info";
+                                    break;
+                                case "Film":
+                                    color = "badge-dark";
+                                    break;
+                                case "Kitap ve Edebiyat":
+                                    color = "badge-secondary";
+                                    break;
+                                case "Müzik":
+                                    color = "badge-danger";
+                                    break;
+                                case "Animeler":
+                                    color = "badge-primary";
+                                    break;
+                                case "Yiyecek İçecek":
+                                    color = "badge-warning";
+                                    break;
+                                default:
+                                    color = "badge-success";
+                                    break;
+                            }
+
+                            <tr>
+                                <td>
+                                    @item.BaslikID
+                                </td>
+                                <td>
+                                    <a>
+                                        <b>@item.BaslikAd</b>
+                                    </a>
+                                    <br />
+                                    <small>
+                                        @(((DateTime)item.BaslikTarih).ToString("dd-MMM-yyyy"))
+                                    </small>
+                                </td>
+                                <td>
+                                    <ul class="list-inline">
+                                        <li class="list-inline-item">
+                                            <img alt="Avatar" class="table-avatar" src="@item.Yazar.YazarResim"> &nbsp; <i>@item.Yazar.YazarAd</i>
+                                        </li>
+                                    </ul>
+                                </td>
+
+                                <td class="project-state">
+                                    <span class="badge @color">@item.Kategori.KategoriAd</span>
+                                </td>
+
+                                <td>
+                                    @if (!item.BaslikDurum)
+                                    {
+                                        spanMod[0] = "danger";
+                                        spanMod[1] = "Pasif";
+                                        spanMod[3] = "success";
+                                        spanMod[2] = "Aktif";
+                                        spanMod[4] = "fa-check";
+                                    }
+                                    else
+                                    {
+                                        spanMod[0] = "success";
+                                        spanMod[1] = "Aktif";
+                                        spanMod[3] = "danger";
+                                        spanMod[2] = "Pasif";
+                                        spanMod[4] = "fa-times";
+                                    }
+                                    <span class="badge badge-@spanMod[0]">@spanMod[1]</span>
+                                </td>
+
+                                <td class="project-actions text-right">
+                                    <a class="btn btn-primary btn-sm" href="/Default/Basliklar/@item.BaslikID">
+                                        <i class="fas fa-comment">
+                                        </i>
+                                        Entryler
+                                    </a>
+                                    <a class="btn btn-info btn-sm" href="/YazarPanel/BaslikDuzenle/@item.BaslikID">
+                                        <i class="fas fa-pencil-alt">
+                                        </i>
+                                        Düzenle
+                                    </a>
+                                    <a class="btn btn-@spanMod[3] btn-sm" href="/YazarPanel/BaslikSil/@item.BaslikID">
+                                        <i class="fas @spanMod[4]">
+                                        </i>
+                                        @spanMod[2] Yap
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+
+    </section>
+
+
+
+    <!-- Control Sidebar -->
+    <aside class="control-sidebar control-sidebar-dark">
+        <!-- Control sidebar content goes here -->
+    </aside>
+    <!-- /.control-sidebar -->
+    <!-- jQuery -->
+    <script src="~/AdminLTE-3.2.0/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src=".~/AdminLTE-3.2.0/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/AdminLTE-3.2.0/dist/js/adminlte.min.js"></script>
+</body>
+</html>
+
+<a href="/YazarPanel/YeniBaslik/" class="btn btn-primary">Yeni Başlık Ekle</a>

@@ -1,0 +1,26 @@
+﻿@model EntityLayer.Concrete.Baslik
+@{
+    ViewBag.Title = "BaslikEkle";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Başlık Ekleme Alanı</h2>
+
+@using (Html.BeginForm("BaslikEkle", "Baslik", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.Label("Başlık Adı")
+        @Html.TextBoxFor(x => x.BaslikAd, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.BaslikAd, "", new { @style = "color: red;" })
+        <br />
+        @Html.Label("Başlık Kategorisi")
+        @Html.DropDownListFor(x => x.KategoriID, (List<SelectListItem>)ViewBag.katDeg, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.KategoriID, "", new { @style = "color: red;" })
+        <br />
+        @Html.Label("Başlık Yazarı")
+        @Html.DropDownListFor(x => x.YazarID, (List<SelectListItem>)ViewBag.yazDeg, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.YazarID, "", new { @style = "color: red;" })
+        <br />
+        <button class="btn btn-info">Başlık Ekle</button>
+    </div>
+}

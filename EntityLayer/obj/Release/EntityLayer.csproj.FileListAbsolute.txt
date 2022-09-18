@@ -1,0 +1,55 @@
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\EntityLayer\obj\Release\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\EntityLayer\obj\Release\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\EntityLayer\obj\Release\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\EntityLayer\obj\Release\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\EntityLayer\obj\Release\EntityLayer.pdb

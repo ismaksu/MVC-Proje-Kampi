@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "SweetAlert";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>SweetAlert Deneme</h2>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<br />
+<button class="btn btn-primary" id="button1" onclick="">Buton 1</button>&nbsp;
+<button class="btn btn-info" id="button2">Buton 2</button>&nbsp;
+<button class="btn btn-warning" id="button3">Buton 3</button>
+
+<script>
+    $('#button1').click(function () {
+        swal("Merhabaaaa");
+    });
+
+    $('#button2').click(function () {
+        swal("Ayanami", "Rei", { button: "Rei" });
+    });
+
+    $('#button3').click(function () {
+        swal("Rei Peluş", "Rei Chikita", "success", {button: "Rei"});
+    });
+</script>

@@ -1,0 +1,1410 @@
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 3\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 8\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-18-19-20-21\MVC Proje Kampı\bin\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 17-----27\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\FluentValidation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\FluentValidation.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\FluentValidation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\FluentValidation.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----35\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\FluentValidation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\FluentValidation.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 30-----40\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\FluentValidation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\FluentValidation.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\FluentValidation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\FluentValidation.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 41-----44\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\FluentValidation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\FluentValidation.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 54\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\FluentValidation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\FluentValidation.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 71\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\FluentValidation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\FluentValidation.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\FluentValidation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\PagedList.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\PagedList.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\FluentValidation.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\PagedList.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\PagedList.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 73-----80\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\MVC Proje Kampı.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\MVC Proje Kampı.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\csc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\csc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\csi.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\csi.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\csi.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Console.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Net.Http.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\vbc.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\vbc.rsp
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\Antlr3.Runtime.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\FluentValidation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\Newtonsoft.Json.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\PagedList.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\PagedList.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\SimpleCrypto.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.Helpers.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.Mvc.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.Optimization.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.WebPages.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\WebGrease.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\FluentValidation.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\PagedList.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\PagedList.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.Helpers.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.Mvc.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.Optimization.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.WebPages.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\Newtonsoft.Json.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\Antlr3.Runtime.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\MVC Proje Kampı\obj\Debug\MVC Proje Kampı.pdb

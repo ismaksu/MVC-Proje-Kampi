@@ -1,0 +1,26 @@
+﻿@using EntityLayer.Concrete
+@model List<Entry>
+@{
+    ViewBag.Title = "EntryListele";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<style>
+    .form-control{
+        width: 30%;
+        margin: auto;
+    }
+</style>
+
+@using (Html.BeginForm("EntryListele", "Entry", FormMethod.Post))
+{
+    <p>
+        Aranacak kelime: @Html.TextBox("p", null, new { @class = "form-control" })
+    </p>
+    <input type="submit" value="Ara" class="form-control" />
+}
+<br />
+@foreach (var item in Model)
+{
+    <p>@item.EntryCont</p>
+}

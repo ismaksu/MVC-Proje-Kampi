@@ -1,0 +1,223 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tatlı Sözlük</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="~/AdminLTE-3.2.0/plugins/fontawesome-free/css/all.min.css">
+    <!-- IonIcons -->
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/AdminLTE-3.2.0/dist/css/adminlte.min.css">
+</head>
+<!--
+`body` tag options:
+
+  Apply one or more of the following classes to to the body tag
+  to get the desired effect
+
+  * sidebar-collapse
+  * sidebar-mini
+-->
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        <!-- Main Sidebar Container -->
+        <aside class="main-sidebar sidebar-dark-dark elevation-2" style="height: 100%; position: fixed;">
+            <!-- Brand Logo -->
+            <a href="/AdminKategori/Index/" class="brand-link">
+                <img src="~/AdminLTE-3.2.0/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+                <span class="brand-text font-weight-light"> Tatlı Sözlük </span>
+            </a>
+
+            <!-- Sidebar -->
+            <div class="sidebar">
+                <!-- Sidebar user panel (optional) -->
+                <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+                    <div class="image">
+                        <img src="~/AdminLTE-3.2.0/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+                    </div>
+                    <div class="info">
+                        <a href="#" class="d-block">Alexander Pierce</a>
+                    </div>
+                </div>
+
+                <!-- SidebarSearch Form -->
+                <div class="form-inline">
+                    <div class="input-group" data-widget="sidebar-search">
+                        <input class="form-control form-control-sidebar" type="search" placeholder="Search" aria-label="Search">
+                        <div class="input-group-append">
+                            <button class="btn btn-sidebar">
+                                <i class="fas fa-search fa-fw"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Sidebar Menu -->
+                <nav class="mt-2">
+                    <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+                        <!-- Add icons to the links using the .nav-icon class
+                             with font-awesome or any other icon font library -->
+
+                        @if (User.IsInRole("A"))
+                        {
+
+                            <li class="nav-item">
+                                <a href="/AdminKategori/Index" class="nav-link">
+                                    <i class="nav-icon fas fa-th"></i>
+                                    <p>
+                                        Kategoriler
+                                    </p>
+                                </a>
+
+                            </li>
+                        }
+                        <li class="nav-item">
+                            <a href="/Baslik/Index/" class="nav-link">
+                                <i class="nav-icon fas fa-bars"></i>
+                                <p>
+                                    Başlıklar
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/Yazar/Index/" class="nav-link">
+                                <i class="nav-icon fas fa-users"></i>
+                                <p>
+                                    Yazarlar
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/Istatistik/Index" class="nav-link">
+                                <i class="nav-icon fas fa-chart-pie"></i>
+                                <p>
+                                    İstatistikler
+                                </p>
+                            </a>
+
+                        </li>
+                        <li class="nav-item">
+                            <a href="/Hakkinda/Index" class="nav-link">
+                                <i class="nav-icon fas fa-info-circle"></i>
+                                <p>
+                                    Hakkımızda
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/Baslik/BaslikReport" class="nav-link">
+                                <i class="nav-icon fas fa-file"></i>
+                                <p>
+                                    Raporlama
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/Iletisim/" class="nav-link">
+                                <i class="nav-icon fas fa-phone-alt"></i>
+                                <p>
+                                    İletişim & Mesajlar
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                <i class="nav-icon fas fa-pen-square"></i>
+                                <p>
+                                    Entryler
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/Authorization/Index" class="nav-link">
+                                <i class="nav-icon fas fa-user-cog"></i>
+                                <p>
+                                    Yetkilendirmeler
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/Galeri/Index/" class="nav-link">
+                                <i class="nav-icon far fa-image"></i>
+                                <p>
+                                    Galeri
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/Skill/Index" class="nav-link">
+                                <i class="nav-icon fa fa-id-card"></i>
+                                <p>
+                                    Yetenek Kartım
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/Test/SweetAlert" class="nav-link">
+                                <i class="nav-icon fa fa-bell"></i>
+                                <p>
+                                    SweetAlert
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="pages/kanban.html" class="nav-link">
+                                <i class="nav-icon fa fa-exclamation-circle"></i>
+                                <p>
+                                    Hata Sayfaları
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                <i class="nav-icon fa fa-pager"></i>
+                                <p>
+                                    Siteye Git
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/Login/LogOut/" class="nav-link">
+                                <i class="nav-icon fa fa-sign-out-alt"></i>
+                                <p>
+                                    Çıkış Yap
+                                </p>
+                            </a>
+
+                        </li>
+
+
+                        <!-- /.sidebar-menu -->
+            </div>
+            <!-- /.sidebar -->
+        </aside>
+
+        <div class="content-wrapper" style="height: 100%; width: 100%; position: absolute; max-width: 82.65%;">
+
+            <div class="content">
+                @RenderBody()
+            </div>
+        </div>
+
+    </div>
+    <!-- ./wrapper -->
+    <!-- REQUIRED SCRIPTS -->
+    <!-- jQuery -->
+    <script src="~/AdminLTE-3.2.0/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="~/AdminLTE-3.2.0/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- AdminLTE -->
+    <script src="~/AdminLTE-3.2.0/dist/js/adminlte.js"></script>
+
+</body>
+</html>

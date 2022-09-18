@@ -1,0 +1,297 @@
+﻿@using EntityLayer.Concrete
+@model List<Kategori>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="tr" class="htmlclass">
+<head>
+    <link href="~/NewBiz/assets/img/ticon.jpg" rel="icon">
+    <style>
+        * {
+            top: 0px;
+            margin: 0 0 0 0;
+            padding: 0 0 0 0;
+        }
+
+        .htmlclass {
+            height: 100%;
+        }
+
+        .bodyclass {
+            height: 100%;
+            background-color: #343434;
+        }
+
+        .main-div3 {
+            margin: 0 auto;
+            height: 100%;
+            display: block;
+        }
+
+        .header3 {
+            display: flex;
+            background-color: #262525;
+            width: 97.7%;
+            overflow: hidden;
+            border: solid 1px black;
+            padding: 15px 0;
+            padding-left: 30px;
+        }
+
+            .header3 h2 {
+                padding-right: 75%;
+                margin-left: 40px;
+                user-select: none;
+                text-shadow: 0 0 25px;
+                color: aqua;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            }
+
+        .categories {
+            z-index: 1;
+            user-select: none;
+            padding-left: 5px;
+            padding-right: 5px;
+            padding-bottom: 1px;
+            border-bottom: solid 1px black;
+            background-color: #262525;
+            height: 50px;
+            overflow-x: auto;
+            overflow-y: hidden;
+        }
+
+            .categories ul {
+                display: block;
+                white-space: nowrap;
+                font-size: 0;
+                scroll-behavior: smooth;
+            }
+
+            .categories::-webkit-scrollbar {
+                height: 5px;
+            }
+
+            .categories::-webkit-scrollbar-track {
+                background-color: black;
+            }
+
+            .categories::-webkit-scrollbar-thumb {
+                border-radius: 4px;
+                background-color: aqua;
+            }
+
+            .categories ul li {
+                margin-right: 7px;
+                width: auto;
+                display: inline-block;
+            }
+
+                .categories ul li button {
+                    border: none;
+                    outline: none;
+                    background-color: unset;
+                    border-radius: 3px;
+                    user-select: none;
+                    padding: 15px;
+                    padding-right: 10px;
+                    color: white;
+                    font-size: 1rem;
+                    display: block;
+                    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    cursor: pointer;
+                    margin-top: 1px;
+                    transition: 0.3s;
+                }
+
+                    .categories ul li button:hover {
+                        color: aqua;
+                        transition: 0.3s;
+                        background-color: #808080;
+                    }
+
+                    .categories ul li button:focus {
+                        border-radius: 0px;
+                        box-shadow: #444444 0px -7px inset;
+                        color: #262525;
+                        background-color: aqua;
+                    }
+
+        .basliklar {
+            top: 0;
+            user-select: none;
+            background-color: #262525;
+            height: 100%;
+            width: 300px;
+            border-right: 1px solid black;
+            padding: 7px;
+            padding-bottom: 10vh;
+            position: sticky;
+            float: left;
+        }
+
+            .basliklar ul {
+                overflow: auto;
+                background-color: none;
+                height: 80vh;
+                width: 100%;
+                display: block;
+            }
+
+                .basliklar ul::-webkit-scrollbar {
+                    width: 7px;
+                }
+
+                .basliklar ul::-webkit-scrollbar-track {
+                    border-radius: 5px;
+                    background-color: black;
+                }
+
+                .basliklar ul::-webkit-scrollbar-thumb {
+                    border-radius: 4px;
+                    background-color: aqua;
+                }
+
+                .basliklar ul li {
+                    width: 100%;
+                    margin-top: 8px;
+                    transition: 0.2s;
+                }
+
+                    .basliklar ul li:hover {
+                        border-radius: 4px;
+                        background-color: #444444;
+                        transition: 0.2s;
+                    }
+
+                    .basliklar ul li button {
+                        padding: 5px;
+                        color: #7efcfc;
+                        cursor: pointer;
+                        background-color: transparent;
+                        outline: none;
+                        border: none;
+                        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                        word-wrap: break-word;
+                        font-size: 1.1rem;
+                        width: 100%;
+                        min-height: 38px;
+                        height: auto;
+                    }
+
+        .baslik-content {
+            position: absolute;
+            float: right;
+            background-color: none;
+            width: 70%;
+            margin-top: 130px;
+            margin-left: 20px;
+            display: inline-block;
+        }
+
+        .baslik-ad {
+            color: #6bffff;
+            text-shadow: 0 0 2px;
+            margin-top: 30px;
+            margin-left: 30px;
+        }
+
+        .sticky-div {
+            position: sticky;
+            top: 0;
+            z-index: 99;
+        }
+
+        .user-page {
+            user-select: none;
+            float: right;
+            background-color: #262525;
+            color: #a0fafa;
+            text-shadow: 3px 3px 10px black;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            padding: 5px;
+            transition: 0.2s;
+        }
+
+            .user-page a {
+                color: unset;
+                background-color: unset;
+                text-decoration: unset;
+            }
+
+            .user-page:hover {
+                transition: 0.4s;
+                text-shadow: 0 0 10px aqua;
+                cursor: pointer;
+                color: aqua;
+                text-decoration: underline;
+            }
+
+        .btn {
+            margin-left: 10px;
+            color: aqua;
+            border: solid 2px aqua;
+            width: auto;
+            padding: 7px;
+            padding-left: 20px;
+            padding-right: 20px;
+            background: rgba(0, 0, 0, 0);
+            border-radius: 5px;
+            outline: none;
+            transition: 0.2s;
+            box-shadow: 0 0 10px -3px aqua;
+            text-shadow: 0 0 15px aqua;
+        }
+
+        .btn:hover{
+            cursor: pointer;
+            transition: 0.3s;
+            background: aqua;
+            color: #262525;
+            text-shadow: 0 0 1px #262525;
+        }
+    </style>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Tatlı Sözlük</title>
+</head>
+<body class="bodyclass">
+    <div class="main-div3">
+        <div class="sticky-div">
+            <div class="header3">
+                <h2>Tatlı Sözlük</h2>
+                <div class="user-page">
+                    <a href="/YazarPanel/Basliklarim/">Yazar Paneli</a>
+                </div>
+            </div>
+
+            <div class="categories">
+                <ul>
+                    @foreach (var item in Model)
+                    {
+                        <li><button>@item.KategoriAd</button></li>
+                    }
+                </ul>
+            </div>
+            <div class="basliklar">
+                <ul>
+                    @foreach (var item in ViewBag.dgr)
+                    {
+                        <li onclick="location.href='/Default/Basliklar/@item.BaslikID'"><button>@item.BaslikAd</button></li>
+                    }
+                </ul>
+            </div>
+        </div>
+
+
+
+    </div>
+    <div class="baslik-content">
+        @Html.Action("Index", "Default")
+    </div>
+</body>
+</html>

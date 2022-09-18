@@ -1,0 +1,23 @@
+﻿@model EntityLayer.Concrete.Kategori
+
+@{
+    Layout = null;
+}
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+<h2>&nbsp;Kategori Ekleme Sayfası</h2>
+
+@using (Html.BeginForm("KategoriEkle", "Kategori", FormMethod.Post))
+{
+<div class="container-fluid">
+    @Html.Label("Kategori Adı : ")
+    @Html.TextBoxFor(x => x.KategoriAd, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.KategoriAd)
+    <br />
+    @Html.Label("Kategorinin Açıklaması : ")
+    @Html.TextBoxFor(x => x.KategoriAciklama, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.KategoriAciklama)
+    <br />
+    <button class="btn btn-success">Kaydet</button>
+</div>
+}

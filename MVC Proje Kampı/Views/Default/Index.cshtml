@@ -1,0 +1,357 @@
+﻿@using EntityLayer.Concrete
+@model List<Entry>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="~/AdminLTE-3.2.0/plugins/fontawesome-free/css/all.min.css">
+    <!-- IonIcons -->
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <!-- Theme style -->
+    
+    <style>
+        body {
+            margin: 0;
+            font-family: "Source Sans Pro",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            text-align: left;
+            background-color: #fff
+        }
+
+        .hold-transition .content-wrapper, .hold-transition .control-sidebar, .hold-transition .control-sidebar *, .hold-transition .main-footer, .hold-transition .main-header, .hold-transition .main-sidebar, .hold-transition .main-sidebar * {
+            transition: none !important;
+            -webkit-animation-duration: 0s !important;
+            animation-duration: 0s !important
+        }
+
+        .layout-navbar-fixed.sidebar-mini-md.sidebar-collapse .wrapper .brand-link, .layout-navbar-fixed.sidebar-mini-xs.sidebar-collapse .wrapper .brand-link, .layout-navbar-fixed.sidebar-mini.sidebar-collapse .wrapper .brand-link {
+            height: calc(3.5rem + 1px);
+            width: 4.6rem
+        }
+
+            .layout-navbar-fixed.sidebar-mini-md.sidebar-collapse .wrapper .brand-link.text-sm, .layout-navbar-fixed.sidebar-mini-xs.sidebar-collapse .wrapper .brand-link.text-sm, .layout-navbar-fixed.sidebar-mini.sidebar-collapse .wrapper .brand-link.text-sm {
+                height: calc(2.93725rem + 1px)
+            }
+
+        .layout-navbar-fixed.sidebar-mini-md.sidebar-collapse.text-sm .wrapper .brand-link, .layout-navbar-fixed.sidebar-mini-xs.sidebar-collapse.text-sm .wrapper .brand-link, .layout-navbar-fixed.sidebar-mini.sidebar-collapse.text-sm .wrapper .brand-link {
+            height: calc(2.93725rem + 1px)
+        }
+
+        body.sidebar-collapse:not(.sidebar-mini-xs):not(.sidebar-mini-md):not(.sidebar-mini) .content-wrapper, body.sidebar-collapse:not(.sidebar-mini-xs):not(.sidebar-mini-md):not(.sidebar-mini) .content-wrapper::before, body.sidebar-collapse:not(.sidebar-mini-xs):not(.sidebar-mini-md):not(.sidebar-mini) .main-footer, body.sidebar-collapse:not(.sidebar-mini-xs):not(.sidebar-mini-md):not(.sidebar-mini) .main-footer::before, body.sidebar-collapse:not(.sidebar-mini-xs):not(.sidebar-mini-md):not(.sidebar-mini) .main-header, body.sidebar-collapse:not(.sidebar-mini-xs):not(.sidebar-mini-md):not(.sidebar-mini) .main-header::before {
+            margin-left: 0
+        }
+
+        .sidebar-collapse:not(.sidebar-mini):not(.sidebar-mini-md):not(.sidebar-mini-xs) .main-sidebar, .sidebar-collapse:not(.sidebar-mini):not(.sidebar-mini-md):not(.sidebar-mini-xs) .main-sidebar::before {
+            box-shadow: none !important
+        }
+
+        .sidebar-mini .main-sidebar.sidebar-focused .nav-compact.nav-sidebar.nav-child-indent:not(.nav-flat) .nav-treeview, .sidebar-mini .main-sidebar:not(.sidebar-no-expand) .nav-compact.nav-sidebar.nav-child-indent:not(.nav-flat) .nav-treeview, .sidebar-mini .main-sidebar:not(.sidebar-no-expand):hover .nav-compact.nav-sidebar.nav-child-indent:not(.nav-flat) .nav-treeview, .sidebar-mini-md .main-sidebar.sidebar-focused .nav-compact.nav-sidebar.nav-child-indent:not(.nav-flat) .nav-treeview, .sidebar-mini-md .main-sidebar:not(.sidebar-no-expand) .nav-compact.nav-sidebar.nav-child-indent:not(.nav-flat) .nav-treeview, .sidebar-mini-md .main-sidebar:not(.sidebar-no-expand):hover .nav-compact.nav-sidebar.nav-child-indent:not(.nav-flat) .nav-treeview, .sidebar-mini-xs .main-sidebar.sidebar-focused .nav-compact.nav-sidebar.nav-child-indent:not(.nav-flat) .nav-treeview, .sidebar-mini-xs .main-sidebar:not(.sidebar-no-expand) .nav-compact.nav-sidebar.nav-child-indent:not(.nav-flat) .nav-treeview, .sidebar-mini-xs .main-sidebar:not(.sidebar-no-expand):hover .nav-compact.nav-sidebar.nav-child-indent:not(.nav-flat) .nav-treeview {
+            padding-left: 1rem;
+            margin-left: -.5rem
+        }
+
+        .sidebar-mini .main-sidebar.sidebar-focused .nav-flat.nav-compact.nav-sidebar .nav-treeview .nav-icon, .sidebar-mini .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-compact.nav-sidebar .nav-treeview .nav-icon, .sidebar-mini-md .main-sidebar.sidebar-focused .nav-flat.nav-compact.nav-sidebar .nav-treeview .nav-icon, .sidebar-mini-md .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-compact.nav-sidebar .nav-treeview .nav-icon, .sidebar-mini-xs .main-sidebar.sidebar-focused .nav-flat.nav-compact.nav-sidebar .nav-treeview .nav-icon, .sidebar-mini-xs .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-compact.nav-sidebar .nav-treeview .nav-icon {
+            margin-left: .4rem
+        }
+
+        .sidebar-mini .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-icon, .sidebar-mini .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-icon, .sidebar-mini-md .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-icon, .sidebar-mini-md .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-icon, .sidebar-mini-xs .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-icon, .sidebar-mini-xs .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-icon {
+            margin-left: .85rem
+        }
+
+        .sidebar-mini .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-icon, .sidebar-mini .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-md .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-md .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-xs .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-xs .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-icon {
+            margin-left: 1.15rem
+        }
+
+        .sidebar-mini .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-md .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-md .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-xs .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-xs .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-icon {
+            margin-left: 1.45rem
+        }
+
+        .sidebar-mini .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-md .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-md .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-xs .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-xs .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-icon {
+            margin-left: 1.75rem
+        }
+
+        .sidebar-mini .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-md .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-md .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-xs .main-sidebar.sidebar-focused .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-icon, .sidebar-mini-xs .main-sidebar:not(.sidebar-no-expand):hover .nav-flat.nav-sidebar.nav-child-indent .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-treeview .nav-icon {
+            margin-left: 2.05rem
+        }
+
+        .sidebar-mini .nav-legacy > .nav-item .nav-link .nav-icon, .sidebar-mini-md .nav-legacy > .nav-item .nav-link .nav-icon, .sidebar-mini-xs .nav-legacy > .nav-item .nav-link .nav-icon {
+            transition: margin-left ease-in-out .3s;
+            margin-left: .6rem
+        }
+
+        .main-sidebar.sidebar-focused .nav-legacy .sidebar-mini-md.sidebar-collapse.nav-child-indent .nav-treeview, .main-sidebar.sidebar-focused .nav-legacy .sidebar-mini-xs.sidebar-collapse.nav-child-indent .nav-treeview, .main-sidebar.sidebar-focused .nav-legacy .sidebar-mini.sidebar-collapse.nav-child-indent .nav-treeview, .main-sidebar:hover .nav-legacy .sidebar-mini-md.sidebar-collapse.nav-child-indent .nav-treeview, .main-sidebar:hover .nav-legacy .sidebar-mini-xs.sidebar-collapse.nav-child-indent .nav-treeview, .main-sidebar:hover .nav-legacy .sidebar-mini.sidebar-collapse.nav-child-indent .nav-treeview {
+            padding-left: 1rem
+        }
+
+            .main-sidebar.sidebar-focused .nav-legacy .sidebar-mini-md.sidebar-collapse.nav-child-indent .nav-treeview .nav-treeview, .main-sidebar.sidebar-focused .nav-legacy .sidebar-mini-xs.sidebar-collapse.nav-child-indent .nav-treeview .nav-treeview, .main-sidebar.sidebar-focused .nav-legacy .sidebar-mini.sidebar-collapse.nav-child-indent .nav-treeview .nav-treeview, .main-sidebar:hover .nav-legacy .sidebar-mini-md.sidebar-collapse.nav-child-indent .nav-treeview .nav-treeview, .main-sidebar:hover .nav-legacy .sidebar-mini-xs.sidebar-collapse.nav-child-indent .nav-treeview .nav-treeview, .main-sidebar:hover .nav-legacy .sidebar-mini.sidebar-collapse.nav-child-indent .nav-treeview .nav-treeview {
+                padding-left: 2rem;
+                margin-left: -1rem
+            }
+
+        .main-sidebar.sidebar-focused .nav-legacy .sidebar-mini-md.sidebar-collapse.text-sm.nav-child-indent .nav-treeview, .main-sidebar.sidebar-focused .nav-legacy .sidebar-mini-xs.sidebar-collapse.text-sm.nav-child-indent .nav-treeview, .main-sidebar.sidebar-focused .nav-legacy .sidebar-mini.sidebar-collapse.text-sm.nav-child-indent .nav-treeview, .main-sidebar:hover .nav-legacy .sidebar-mini-md.sidebar-collapse.text-sm.nav-child-indent .nav-treeview, .main-sidebar:hover .nav-legacy .sidebar-mini-xs.sidebar-collapse.text-sm.nav-child-indent .nav-treeview, .main-sidebar:hover .nav-legacy .sidebar-mini.sidebar-collapse.text-sm.nav-child-indent .nav-treeview {
+            padding-left: .5rem
+        }
+
+            .main-sidebar.sidebar-focused .nav-legacy .sidebar-mini-md.sidebar-collapse.text-sm.nav-child-indent .nav-treeview .nav-treeview, .main-sidebar.sidebar-focused .nav-legacy .sidebar-mini-xs.sidebar-collapse.text-sm.nav-child-indent .nav-treeview .nav-treeview, .main-sidebar.sidebar-focused .nav-legacy .sidebar-mini.sidebar-collapse.text-sm.nav-child-indent .nav-treeview .nav-treeview, .main-sidebar:hover .nav-legacy .sidebar-mini-md.sidebar-collapse.text-sm.nav-child-indent .nav-treeview .nav-treeview, .main-sidebar:hover .nav-legacy .sidebar-mini-xs.sidebar-collapse.text-sm.nav-child-indent .nav-treeview .nav-treeview, .main-sidebar:hover .nav-legacy .sidebar-mini.sidebar-collapse.text-sm.nav-child-indent .nav-treeview .nav-treeview {
+                padding-left: 1rem;
+                margin-left: -.5rem
+            }
+
+        .sidebar-mini-md.sidebar-collapse .nav-legacy .sidebar > .nav-item > .nav-link .nav-icon, .sidebar-mini-xs.sidebar-collapse .nav-legacy .sidebar > .nav-item > .nav-link .nav-icon, .sidebar-mini.sidebar-collapse .nav-legacy .sidebar > .nav-item > .nav-link .nav-icon {
+            margin-left: .55rem
+        }
+
+        .sidebar-mini-md.sidebar-collapse .nav-legacy .sidebar > .nav-item > .nav-link.active > .nav-icon, .sidebar-mini-xs.sidebar-collapse .nav-legacy .sidebar > .nav-item > .nav-link.active > .nav-icon, .sidebar-mini.sidebar-collapse .nav-legacy .sidebar > .nav-item > .nav-link.active > .nav-icon {
+            margin-left: .36rem
+        }
+
+        .sidebar-mini-md.sidebar-collapse .nav-legacy .sidebar.nav-child-indent .nav-treeview .nav-treeview, .sidebar-mini-xs.sidebar-collapse .nav-legacy .sidebar.nav-child-indent .nav-treeview .nav-treeview, .sidebar-mini.sidebar-collapse .nav-legacy .sidebar.nav-child-indent .nav-treeview .nav-treeview {
+            padding-left: 0;
+            margin-left: 0
+        }
+
+        .sidebar-mini-md.sidebar-collapse.text-sm .nav-legacy .sidebar > .nav-item > .nav-link .nav-icon, .sidebar-mini-xs.sidebar-collapse.text-sm .nav-legacy .sidebar > .nav-item > .nav-link .nav-icon, .sidebar-mini.sidebar-collapse.text-sm .nav-legacy .sidebar > .nav-item > .nav-link .nav-icon {
+            margin-left: .75rem
+        }
+
+        .sidebar-mini-md.sidebar-collapse.text-sm .nav-legacy .sidebar > .nav-item > .nav-link.active > .nav-icon, .sidebar-mini-xs.sidebar-collapse.text-sm .nav-legacy .sidebar > .nav-item > .nav-link.active > .nav-icon, .sidebar-mini.sidebar-collapse.text-sm .nav-legacy .sidebar > .nav-item > .nav-link.active > .nav-icon {
+            margin-left: calc(.75rem - 3px)
+        }
+
+        .main-sidebar.sidebar-focused .nav-collapse-hide-child .sidebar-mini-md.sidebar-collapse .menu-open > .nav-treeview, .main-sidebar.sidebar-focused .nav-collapse-hide-child .sidebar-mini-xs.sidebar-collapse .menu-open > .nav-treeview, .main-sidebar.sidebar-focused .nav-collapse-hide-child .sidebar-mini.sidebar-collapse .menu-open > .nav-treeview, .main-sidebar:not(.sidebar-no-expand):hover .nav-collapse-hide-child .sidebar-mini-md.sidebar-collapse .menu-open > .nav-treeview, .main-sidebar:not(.sidebar-no-expand):hover .nav-collapse-hide-child .sidebar-mini-xs.sidebar-collapse .menu-open > .nav-treeview, .main-sidebar:not(.sidebar-no-expand):hover .nav-collapse-hide-child .sidebar-mini.sidebar-collapse .menu-open > .nav-treeview {
+            max-height: -webkit-min-content;
+            max-height: -moz-min-content;
+            max-height: min-content;
+            -webkit-animation-name: fadeIn;
+            animation-name: fadeIn;
+            -webkit-animation-duration: .3s;
+            animation-duration: .3s;
+            -webkit-animation-fill-mode: both;
+            animation-fill-mode: both
+        }
+
+        .layout-boxed:not(.sidebar-mini):not(.sidebar-mini-md):not(.sidebar-mini-xs).sidebar-collapse .main-sidebar {
+            margin-left: 0
+        }
+
+        .layout-boxed:not(.sidebar-mini):not(.sidebar-mini-md):not(.sidebar-mini-xs) .content-wrapper, .layout-boxed:not(.sidebar-mini):not(.sidebar-mini-md):not(.sidebar-mini-xs) .main-footer, .layout-boxed:not(.sidebar-mini):not(.sidebar-mini-md):not(.sidebar-mini-xs) .main-header {
+            z-index: 9999;
+            position: relative
+        }
+
+        .layout-boxed:not(.sidebar-mini):not(.sidebar-mini-md):not(.sidebar-mini-xs) .control-sidebar {
+            z-index: 9999
+        }
+
+        .sidebar-hidden .main-sidebar, .sidebar-hidden.sidebar-mini.sidebar-collapse .main-sidebar {
+            display: none !important
+        }
+
+        .sidebar-hidden .content-wrapper, .sidebar-hidden .main-header, .sidebar-hidden.sidebar-mini.sidebar-collapse .content-wrapper, .sidebar-hidden.sidebar-mini.sidebar-collapse .main-header {
+            margin-left: 0 !important
+        }
+
+        .wrapper {
+            position: relative
+        }
+
+        .col-md-12 {
+            -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+            max-width: 100%
+        }
+
+        .timeline {
+            margin: 0 0 45px 10px;
+            padding: 0;
+            position: relative
+        }
+
+            .timeline::before {
+                border-radius: .25rem;
+                background-color: #dee2e6;
+                bottom: 0;
+                content: "";
+                left: 31px;
+                margin: 0;
+                position: absolute;
+                top: 0;
+                width: 4px
+            }
+
+            .timeline > div {
+                margin-bottom: 15px;
+                margin-right: 10px;
+                position: relative
+            }
+
+                .timeline > div::after, .timeline > div::before {
+                    content: "";
+                    display: table
+                }
+
+                .timeline > div > .timeline-item {
+                    box-shadow: 0 0 1px rgba(0,0,0,.125),0 1px 3px rgba(0,0,0,.2);
+                    border-radius: .25rem;
+                    background-color: #fff;
+                    color: #495057;
+                    margin-left: 60px;
+                    margin-right: 15px;
+                    margin-top: 0;
+                    padding: 0;
+                    position: relative
+                }
+
+                    .timeline > div > .timeline-item > .time {
+                        color: #999;
+                        float: right;
+                        font-size: 12px;
+                        padding: 10px
+                    }
+
+                    .timeline > div > .timeline-item > .timeline-header {
+                        border-bottom: 1px solid rgba(0,0,0,.125);
+                        color: #495057;
+                        font-size: 16px;
+                        line-height: 1.1;
+                        margin: 0;
+                        padding: 10px
+                    }
+
+                        .timeline > div > .timeline-item > .timeline-header > a {
+                            font-weight: 600
+                        }
+
+                    .timeline > div > .timeline-item > .timeline-body, .timeline > div > .timeline-item > .timeline-footer {
+                        padding: 10px
+                    }
+
+                        .timeline > div > .timeline-item > .timeline-body > img {
+                            margin: 10px
+                        }
+
+                        .timeline > div > .timeline-item > .timeline-body ol, .timeline > div > .timeline-item > .timeline-body ul, .timeline > div > .timeline-item > .timeline-body > dl {
+                            margin: 0
+                        }
+
+                        .timeline > div > .timeline-item > .timeline-footer > a {
+                            color: #fff
+                        }
+
+                .timeline > div > .fa, .timeline > div > .fab, .timeline > div > .fad, .timeline > div > .fal, .timeline > div > .far, .timeline > div > .fas, .timeline > div > .ion, .timeline > div > .svg-inline--fa {
+                    background-color: #adb5bd;
+                    border-radius: 50%;
+                    font-size: 16px;
+                    height: 30px;
+                    left: 18px;
+                    line-height: 30px;
+                    position: absolute;
+                    text-align: center;
+                    top: 0;
+                    width: 30px
+                }
+
+                .timeline > div > .svg-inline--fa {
+                    padding: 7px
+                }
+
+            .timeline > .time-label > span {
+                border-radius: 4px;
+                background-color: #fff;
+                display: inline-block;
+                font-weight: 600;
+                padding: 5px
+            }
+
+        .timeline-inverse > div > .timeline-item {
+            box-shadow: none;
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6
+        }
+
+            .timeline-inverse > div > .timeline-item > .timeline-header {
+                border-bottom-color: #dee2e6
+            }
+
+        .dark-mode .timeline::before {
+            background-color: #6c757d
+        }
+
+        .dark-mode .timeline > div > .timeline-item {
+            background-color: #343a40;
+            color: #fff;
+            border-color: #6c757d
+        }
+
+            .dark-mode .timeline > div > .timeline-item > .timeline-header {
+                color: #ced4da;
+                border-color: #6c757d
+            }
+
+            .dark-mode .timeline > div > .timeline-item > .time {
+                color: #ced4da
+            }
+
+        .bg-success {
+            background-color: #28a745 !important
+        }
+    </style>
+</head>
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        <br />
+        <a class="btn" style="text-decoration: unset;" href="/YazarPanelEntry/EntryEkle/@ViewBag.baslikID">Entry Girişi</a>
+        <section class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="baslik-ad" style="margin-left: 10px;">@ViewBag.baslik</h2>
+                        <br />
+                        <div class="timeline" @*style="margin-top: 25px; margin-left: 30px;*@">
+
+                            @foreach (var item in Model)
+                            {
+                                <div class="time-label">
+                                    <span class="bg-success" style="color: white;">@(((DateTime)item.EntryTarih).ToString("dd MMMM yyyy ~ HH:mm:ss"))</span>
+                                </div>
+                                <div>
+                                    <i class="fas fa-comment bg-yellow"></i>
+                                    <div class="timeline-item" style="background-color: #262525;">
+                                        <h3 class="timeline-header" style="color: #21ce07;">@item.Yazar.YazarAd</h3>
+                                        <div class="timeline-body" style="color: aquamarine;">
+                                            @item.EntryCont
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                            @*@for (int i = 0; i < 15; i++)
+                            {
+                                <div class="time-label">
+                                    <span class="bg-success" style="color: white;">8 Ağustos 2022 ~ 00:16</span>
+                                </div>
+                                <div>
+                                    <i class="fas fa-comment bg-yellow"></i>
+                                    <div class="timeline-item" style="background-color: #262525;">
+                                        <h3 class="timeline-header" style="color: #21ce07;">a cuber</h3>
+                                        <div class="timeline-body" style="color: aquamarine;">
+                                            HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                                        </div>
+                                    </div>
+                                </div>
+                            }*@
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script src="~/AdminLTE-3.2.0/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/AdminLTE-3.2.0/dist/js/adminlte.js"></script>
+</body>
+</html>

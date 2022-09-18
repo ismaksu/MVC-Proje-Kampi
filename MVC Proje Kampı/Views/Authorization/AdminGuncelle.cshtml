@@ -1,0 +1,83 @@
+﻿@model EntityLayer.Concrete.Admin
+@{
+    ViewBag.Title = "AdminGuncelle";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<style>
+    .bodyContents {
+        align-items: center;
+        align-content: center;
+        justify-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .form-control {
+        margin: auto;
+        width: 70vh;
+    }
+
+    #idTxtBox {
+        width: 40vh !important;
+    }
+
+    #rolTxtBox {
+        width: 25vh !important;
+    }
+</style>
+
+<div class="bodyContents">
+
+    <br />
+    <h2>Admin Güncelleme Alanı</h2>
+
+    @using (Html.BeginForm("AdminGuncelle", "Authorization", FormMethod.Post, new { @onsubmit = "return submitForm(this);" }))
+    {
+        <div class="form-group">
+            @Html.Label("Admin ID: ")
+            @Html.TextBoxFor(x => x.AdminID, new { @class = "form-control", @id = "idTxtBox", @readonly = true })
+            <br />
+            @Html.Label("Admin Maili:")
+            @Html.TextBoxFor(x => x.AdminAd, new { @class = "form-control", @autocomplete = "off" })
+            <br />
+            @Html.Label("Admin Şifresi:")
+            @Html.TextBoxFor(x => x.AdminSifre, new { @class = "form-control", @autocomplete = "off" })
+            <br />
+            @Html.Label("Admin Rolü:")
+            @Html.TextBoxFor(x => x.AdminRol, new { @class = "form-control", @autocomplete = "off", @id = "rolTxtBox" })
+        </div>
+        <button formmethod="post" class="btn btn-info">Değişiklikleri Kaydet</button>
+    }
+
+    <script>
+        function submitForm(form) {
+            swal({
+                title: "Uyarı!",
+                text: "Bu Admin üzerindeki düzenlemeleri kaydetmek istediğine emin misin?",
+                icon: "warning",
+                buttons: ['Yok ben almayayım.', 'Kesinlikle!'],
+            })
+                .then((willDelete) => {
+                    if (willDelete) {
+
+                        swal("Başarılı", "Admin başarıyla güncellendi.", {
+                            icon: "success",
+                            button: "Sağol",
+                        });
+                        setInterval(2500);
+
+                        //FormMethod.Post işlemi gerçekleştikten hemen direkt Index'e return etmemesi için dialog'un 2500 ms gözükme zaman aşımı.
+                        setTimeout(function () {
+                            form.submit();
+                        }, 2500);
+
+                    } else {
+                        swal("Başarıyla iptal edildi!", { button: "Tamamdır!" });
+                    }
+                });
+            return false;
+        }
+    </script>
+</div>

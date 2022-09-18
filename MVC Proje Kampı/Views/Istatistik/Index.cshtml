@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<br />
+<h2>İstatistik Listeleme Sayfası</h2>
+
+<style>
+    #abc {
+        margin: 10px;
+        height: 250px;
+        width: 200px;
+        padding: 70px 0;
+        border-radius: 5px;
+        box-shadow: darkcyan 0px 0px 10px;
+        text-align: center;
+        color: white;
+        text-shadow: 0px 0px 3px black;
+    }
+
+    div[name="cont1"] {
+        background-color: cyan;
+    }
+
+    div[name="cont2"] {
+        background-color: indianred;
+    }
+
+    div[name="cont3"] {
+        background-color: springgreen;
+    }
+
+    div[name="cont4"] {
+        background-color: lawngreen;
+    }
+
+    div[name="cont5"] {
+        background-color: mediumpurple;
+    }
+
+    .parent {
+        text-align: center;
+    }
+
+    .child {
+        display: inline-block;
+        padding: 1rem 1rem;
+        vertical-align: middle;
+    }
+    
+    h1.yazi1{
+        color: darkblue;
+    }
+</style>
+
+<br />
+
+<div class="parent">
+    <div class="child" id="abc" name="cont1">
+        <h5> Kategori Sayısı </h5>
+        <br /><br />
+        <h1 class="yazi1"> @ViewBag.kateSayi </h1>
+    </div>
+
+    <div class="child" id="abc" name="cont2">
+        <h5> Yazılım Kategorisine Ait Başlık Sayısı </h5>
+        <br />
+        <h1 class="yazi1"> @ViewBag.specKate </h1>
+    </div>
+
+    <div class="child" id="abc" name="cont3">
+        <h5>İsminde "A" Harfi Geçen Yazar Sayısı</h5>
+        <br />
+        <h1 class="yazi1"> @ViewBag.aGecen </h1>
+    </div>
+
+    <div class="child" id="abc" name="cont4">
+        <h5> En Fazla Başlığa Sahip Kategori </h5>
+        <br />
+        <h1 class="yazi1"> @ViewBag.enCokBas </h1>
+    </div>
+
+    <div class="child" id="abc" name="cont5">
+        <h5>Kategori Durumu False ve True Olan Kategori Sayısındaki Fark</h5>
+        <h1 class="yazi1"> @ViewBag.kategoriFark </h1>
+    </div>
+</div>

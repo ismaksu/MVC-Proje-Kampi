@@ -1,0 +1,16 @@
+﻿@model EntityLayer.Concrete.Entry
+@{
+    ViewBag.Title = "EntryEkle";
+    Layout = "~/Views/Shared/_LayoutYazar.cshtml";
+}
+<br />
+@using (Html.BeginForm("EntryEkle", "YazarPanelEntry", FormMethod.Post))
+{
+    <div class="form-group">
+        <h3>@ViewBag.baslikAd</h3>
+        @Html.TextAreaFor(x => x.EntryCont, 4, 300, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.EntryCont)
+        <br />  
+        <button class="btn btn-success">Entry'i Gir</button>
+    </div>
+}

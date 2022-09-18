@@ -1,0 +1,72 @@
+﻿
+@{
+    ViewBag.Title = "Hata404";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<style>
+    div.centered-error {
+        margin: auto;
+        padding-left: 15%;
+        text-align: center;
+    }
+
+    div.centered-goback {
+        margin-top: 17%;
+        margin-left: 5%;
+        padding-left: 15%;
+        color: forestgreen;
+    }
+
+    div.parent-center {
+        padding-left: 5%;
+        padding-top: 10%;
+        background-color: #082a60;
+        display: block;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        width: 100%;
+        position: fixed;
+        top: 0px;
+        left: 0px;
+    }
+
+    div h1{
+        color: #4d7dc8;
+        font-size: 3.5rem;
+    }
+
+    div h3{
+        color: #bb2b2b;
+    }
+
+    div h2 b{
+        color: darkred;
+    }
+
+    .btn-lg{
+        margin-left: 35px;
+        width: 250px;
+    }
+</style>
+
+<head>
+    <title>Sayfa Bulunamadı!</title>
+</head>
+<body>
+    <div class="parent-center">
+        <div class="centered-error">
+            <h2><b>HATA!</b></h2>
+            <h1>Maalesef aradığınız web sayfası uzayın boşluklarında süzülüyor...</h1>
+            <br />
+            <h3>~ 404 ~</h3>
+        </div>
+        <br />
+        <div class="centered-goback">
+            <h5>Belki Dünya'ya Geri Dönmek İstersiniz?</h5>
+            <a class="btn btn-outline-success btn-lg" href="/Baslik/Index">Geri Dön</a>
+        </div>
+    </div>
+</body>

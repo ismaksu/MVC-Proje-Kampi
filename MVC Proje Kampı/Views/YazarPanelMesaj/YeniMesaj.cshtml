@@ -1,0 +1,100 @@
+﻿@model EntityLayer.Concrete.Mesaj
+@{
+    ViewBag.Title = "YeniMesaj";
+    Layout = "~/Views/Shared/_LayoutYazar.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mesaj Oluştur ~ Tatlı Sözlük</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/AdminLTE-3.2.0/plugins/fontawesome-free/css/all.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/AdminLTE-3.2.0/dist/css/adminlte.min.css">
+    <!-- summernote -->
+    <link rel="stylesheet" href="~/AdminLTE-3.2.0/plugins/summernote/summernote-bs4.min.css">
+</head>
+<body class="hold-transition sidebar-mini">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                @Html.Action("CardPartial", "YazarPanelMesaj")
+                <!-- /.col -->
+                <div class="col-md-9">
+                    @using (Html.BeginForm("YeniMesaj", "YazarPanelMesaj", FormMethod.Post))
+                    {
+
+
+                        <div class="card card-primary card-outline">
+                            <div class="card-header">
+                                <h3 class="card-title">Yeni Mesaj Oluştur</h3>
+                            </div>
+                            <!-- /.card-header -->
+                            <div class="card-body">
+                                <div class="form-group">
+                                    @Html.TextBoxFor(x => x.AliciMail, new { @class = "form-control", @placeholder = "Alıcı" })
+                                    @Html.ValidationMessageFor(x => x.AliciMail, "", new { @style = "color: red;" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.TextBoxFor(x => x.Konu, new { @class = "form-control", @placeholder = "Konu" })
+                                    @Html.ValidationMessageFor(x => x.Konu, "", new { @style = "color: red;" })
+                                </div>
+                                <div class="form-group">
+                                    <textarea id="compose-textarea" name="MesajIcerik" class="form-control" style="height: 300px">
+                                    </textarea>
+                                </div>
+                                <div class="form-group">
+                                    <div class="btn btn-default btn-file">
+                                        <i class="fas fa-paperclip"></i> Dosya Ekle
+                                        <input type="file" name="attachment">
+                                    </div>
+                                    <p class="help-block">Max. 32MB</p>
+                                </div>
+                            </div>
+                            <!-- /.card-body -->
+                            <div class="card-footer">
+                                <div class="float-right">
+                                    <button type="button" class="btn btn-default"><i class="fas fa-pencil-alt"></i> Taslak</button>
+                                    <button type="submit" class="btn btn-primary"><i class="far fa-envelope"></i> Gönder</button>
+                                </div>
+                                <button type="reset" class="btn btn-default"><i class="fas fa-times"></i> İptal</button>
+                            </div>
+                            <!-- /.card-footer -->
+                        </div>
+                    }
+                    <!-- /.card -->
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </section>
+    <!-- /.content -->
+    <!-- ./wrapper -->
+    <!-- jQuery -->
+    <script src="~/AdminLTE-3.2.0/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="~/AdminLTE-3.2.0/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/AdminLTE-3.2.0/dist/js/adminlte.min.js"></script>
+    <!-- Summernote -->
+    <script src="~/AdminLTE-3.2.0/plugins/summernote/summernote-bs4.min.js"></script>
+    <!-- Page specific script -->
+    <script>
+        $(function () {
+            //Add text editor
+            $('#compose-textarea').summernote()
+        })</script>
+</body>
+</html>

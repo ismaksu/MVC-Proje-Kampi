@@ -1,0 +1,29 @@
+﻿@model EntityLayer.Concrete.Baslik
+@{
+    ViewBag.Title = "BaslikGuncelle";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Başlık Güncelleme Alanı</h2>
+
+@using (Html.BeginForm("BaslikGuncelle", "Baslik", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.Label("Başlık ID")
+        @Html.TextBoxFor(x => x.BaslikID, new { @class = "form-control", @readonly = "true" })
+        <br />
+        @Html.Label("Başlık Ad")
+        @Html.TextBoxFor(x => x.BaslikAd, new { @class = "form-control" })
+        <br />
+        @Html.Label("Yazar")
+        @Html.DropDownListFor(x => x.YazarID, (List<SelectListItem>)ViewBag.deg, new { @class = "form-control" })
+        <br />
+        @Html.Label("Başlık Kategorisi")
+        @Html.DropDownListFor(x => x.KategoriID, (List<SelectListItem>)ViewBag.val, new { @class = "form-control" })
+        <br />
+        @Html.Label("Başlık Tarihi")
+        @Html.TextBoxFor(x => x.BaslikTarih, new { @class = "form-control", @readonly = "true" })
+        <br />
+        <button class="btn btn-success">Başlık Güncelle</button>
+    </div>
+}

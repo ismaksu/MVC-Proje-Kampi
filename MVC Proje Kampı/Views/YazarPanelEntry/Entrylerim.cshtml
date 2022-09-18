@@ -1,0 +1,42 @@
+﻿@using EntityLayer.Concrete
+@model List<Entry>
+@{
+    ViewBag.Title = "Entrylerim";
+    Layout = "~/Views/Shared/_LayoutYazar.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        <section class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <br />
+                        <div class="timeline">
+                            @foreach (var item in Model)
+                            {
+                                <div class="time-label">
+                                    <span class="bg-success">@(((DateTime)item.EntryTarih).ToString("dd MMMM yyyy ~ HH:mm:ss"))</span>
+                                </div>
+                                <div>
+                                    <i class="fas fa-comment bg-yellow"></i>
+                                    <div class="timeline-item">
+                                        <a href="/Default/Basliklar/@item.BaslikID"><span style="background-color: #ffffff; color: #808080; font-size: 0.9rem; margin-left: 5px; margin-top: 3px; padding: 3px; border-radius: 5px;">@item.Baslik.BaslikAd</span></a>
+                                        <br />
+                                        <h3 class="timeline-header">@item.Yazar.YazarAd</h3>
+                                        <div class="timeline-body">
+                                            @item.EntryCont
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

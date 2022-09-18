@@ -1,0 +1,33 @@
+﻿@using EntityLayer.Concrete
+@model List<Hakkinda>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<br />
+<h2>Hakkında Alanı</h2>
+<br />
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Hakkımda Başlığı</th>
+        <th>Aktif Yap</th>
+        <th>Pasif Yap</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.HakkindaID</td>
+            <td>@item.HakkindaCont1</td>
+            <td><a href="#" class="btn btn-warning">Aktif Yap</a></td>
+            <td><a href="#" class="btn btn-danger">Pasif Yap</a></td>
+        </tr>
+    }
+</table>
+
+<button class="btn btn-primary" data-toggle="modal" data-target="#Modal1">
+    Hakkımızda Girdisi Ekle
+</button>
+@Html.Action("HakkindaPartial", "Hakkinda")

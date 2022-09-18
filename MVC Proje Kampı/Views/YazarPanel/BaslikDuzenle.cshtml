@@ -1,0 +1,26 @@
+﻿@model EntityLayer.Concrete.Baslik
+@{
+    ViewBag.Title = "BaslikDuzenle";
+    Layout = "~/Views/Shared/_LayoutYazar.cshtml";
+}
+
+<h2>Başlık Güncelleme Alanı</h2>
+
+@using (Html.BeginForm("BaslikDuzenle", "YazarPanel", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.HiddenFor(x => x.BaslikID)
+
+        @Html.Label("Başlık Ad")
+        @Html.TextBoxFor(x => x.BaslikAd, new { @class = "form-control" })
+        
+        @Html.HiddenFor(x => x.YazarID)
+        @Html.HiddenFor(x => x.BaslikDurum)
+        <br />
+        @Html.Label("Başlık Kategorisi")
+        @Html.DropDownListFor(x => x.KategoriID, (List<SelectListItem>)ViewBag.katDeg, new { @class = "form-control" })
+        @Html.HiddenFor(x => x.BaslikTarih)
+        <br />
+        <button class="btn btn-success">Başlık Güncelle</button>
+    </div>
+}

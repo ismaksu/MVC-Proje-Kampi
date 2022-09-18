@@ -1,0 +1,80 @@
+﻿@model EntityLayer.Concrete.Admin
+@{
+    ViewBag.Title = "AdminEkle";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<div class="bodyElements">
+    <br />
+    <h2>Admin Ekleme Alanı</h2>
+    <br />
+
+    <style>
+        .form-group {
+            text-align: center;
+        }
+
+        .centeredButton {
+            text-align: center;
+        }
+
+        .bodyElements {
+            text-align: center;
+        }
+
+        .form-control {
+            width: 80vh;
+            margin: auto;
+        }
+    </style>
+
+    @using (Html.BeginForm("AdminEkle", "Authorization", FormMethod.Post, new { @onsubmit = "return submitForm(this);" }))
+    {
+        <div class="form-group text-center" style="float: none;">
+            @Html.Label("Admin Maili: ")
+            @Html.TextBoxFor(x => x.AdminAd, new { @class = "form-control", @placeholder = "Admin Maili", @autocomplete = "off" })
+            <br />
+            @Html.Label("Admin Şifresi")
+            @Html.TextBoxFor(x => x.AdminSifre, new { @class = "form-control", @placeholder = "Admin Şifresi", @autocomplete = "off" })
+            <br />
+            @Html.Label("Admin Rolünü Belirleyiniz: ")
+            @Html.TextBoxFor(x => x.AdminRol, new { @class = "form-control", @placeholder = "Admin Rolü", @autocomplete = "off" })
+        </div>
+        <br />
+        <div class="centeredButton">
+            <button class="btn btn-success" id="adminEkle" formmethod="post">Admin Eklemesini Gerçekleştir</button>
+        </div>
+    }
+
+    <script>
+        function submitForm(form) {
+            swal({
+                title: "Uyarı!",
+                text: "Yeni Admin kullanıcısı eklemek istediğine emin misin?",
+                icon: "warning",
+                buttons: ['Yok ben almayayım.', 'Kesinlikle!'],
+            })
+                .then((willDelete) => {
+                    if (willDelete) {
+
+                        swal("Başarılı", "Admin hesabı başarıyla eklendi.", {
+                            icon: "success",
+                            button: "Sağol",
+                        });
+                        setInterval(2500);
+
+                        //FormMethod.Post işlemi gerçekleştikten hemen direkt Index'e return etmemesi için dialog'un 2500 ms gözükme zaman aşımı.
+                        setTimeout(function () {
+                            form.submit();
+                        }, 2500);
+
+                    } else {
+                        swal("Başarıyla iptal edildi!", { button: "Tamamdır!" });
+                    }
+                });
+            return false;
+        }
+    </script>
+</div>

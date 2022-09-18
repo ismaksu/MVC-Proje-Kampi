@@ -1,0 +1,74 @@
+﻿@using EntityLayer.Concrete
+@model List<Yazar>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<body class="hold-transition sidebar-mini">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h2>Yazarlar</h2>
+                </div>
+
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+
+        <!-- Default box -->
+        <div class="card card-solid">
+            <div class="card-body pb-0">
+                <div class="row">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-12 col-sm-6 col-md-4 d-flex align-items-stretch flex-column">
+                            <div class="card bg-light d-flex flex-fill">
+                                <div class="card-header text-muted border-bottom-0">
+                                    @item.YazarUnvan
+                                </div>
+                                <div class="card-body pt-0">
+                                    <div class="row">
+                                        <div class="col-7">
+                                            <h2 class="lead"><b>@item.YazarAd</b></h2>
+                                            <p class="text-muted text-sm"><b>@item.YazarAciklama</b> </p>
+                                            <ul class="ml-4 mb-0 fa-ul text-muted">
+                                                <li class="small" style="overflow-wrap: normal"><span class="fa-li"><i class="fas fa-lg fa-envelope" style="color: #0094ff"></i></span> Mail: @item.YazarMail</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-5 text-center">
+                                            <img src="@item.YazarResim" alt="user-avatar" class="img-circle img-lg">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-footer">
+                                    <div class="text-right">
+                                        <a href="#" class="btn btn-sm bg-teal">
+                                            <i class="fas fa-list"></i> Yazarın Başlıkları
+                                        </a>
+                                        <a href="/Yazar/YazarDuzenle/@item.YazarID" class="btn btn-sm btn-primary">
+                                            <i class="fas fa-user-edit"></i> Profili Düzenle
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+        <!-- /.card -->
+
+    </section>
+    <!-- /.content -->
+</body>
+</html>
+<a href="/Yazar/YazarEkle/" class="btn btn-info">Yeni Yazar Ekle</a>
