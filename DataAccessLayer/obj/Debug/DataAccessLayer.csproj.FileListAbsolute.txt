@@ -199,3 +199,31 @@ C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92--
 C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_adminSifre_MaxLengthINF.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_yazar_edit.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_yazar_unvan_add.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_image_size_change.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_yazar_durum_eklendi.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_entry_durum_eklendi.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_baslik_durum_eklendi.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_mesaj_class.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_iletisim_tarih_add.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_resimdosya_class.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_admin_class.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_mesajokunmasi_eklendi.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_adminSifre_MaxLengthINF.resources
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

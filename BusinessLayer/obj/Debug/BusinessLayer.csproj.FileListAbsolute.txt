@@ -251,3 +251,28 @@ C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92--
 C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\Ders 92-----100 FINAL\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\SimpleCrypto.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Ismail\Desktop\Yazılım\DERSLER\ASP.NET MVC\MVC Proje Kampı\MVC-Proje-Kampi\BusinessLayer\obj\Debug\BusinessLayer.pdb
