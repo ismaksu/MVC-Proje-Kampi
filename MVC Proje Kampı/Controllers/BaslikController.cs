@@ -18,7 +18,7 @@ namespace MVC_Proje_Kampı.Controllers
 
         public ActionResult Index()
         {
-            var baslikDegerleri = bm.BaslikListele();
+            var baslikDegerleri = bm.AdminBaslikListele();
             return View(baslikDegerleri);
         }
 

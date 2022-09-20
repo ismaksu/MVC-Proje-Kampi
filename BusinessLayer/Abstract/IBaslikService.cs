@@ -11,6 +11,8 @@ namespace BusinessLayer.Abstract
     {
         List<Baslik> BaslikListele();
 
+        List<Baslik> AdminBaslikListele();
+
         List<Baslik> YazaraGoreListele(int id);
 
         void BaslikEkle(Baslik baslik);

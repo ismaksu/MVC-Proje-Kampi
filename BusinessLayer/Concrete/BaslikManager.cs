@@ -33,7 +33,10 @@ namespace BusinessLayer.Concrete
             return _baslikDal.Listele(x => x.BaslikDurum == true);
         }
 
-        
+        public List<Baslik> AdminBaslikListele()
+        {
+            return _baslikDal.Listele();
+        }
 
         public void BaslikSil(Baslik baslik)
         {
